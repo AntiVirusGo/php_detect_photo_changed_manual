@@ -14,7 +14,10 @@ if __name__ == "__main__":
 
     # [CONFIG]
     # 数据源图片所在目录
-    img_dir = r"""./bicycle/"""
+    # img_dir = r"""./bicycle/"""
+    img_dir = r"""./bedroom/"""
+
+
     # 图片入口。
     img_init = "input_Cam040.png"
     log_debug.info("图片入口: {IMG_INIT}".format(IMG_INIT=img_init))
@@ -30,9 +33,9 @@ if __name__ == "__main__":
     similar_order_algorithm = SimilarOrderAlgorithm(img_dir=img_dir, img_init=img_init, img_list=img_list)
 
     # 回溯1图寻找 算法
-    res_order_list, algorithm_similar_name = similar_order_algorithm.BackOneImgSimilar_Order()
+    # res_order_list, algorithm_similar_name = similar_order_algorithm.BackOneImgSimilar_Order()
     # 单图寻找最像 算法
-    # res_order_list, algorithm_similar_name = similar_order_algorithm.SingleImgSimilar_Order()
+    res_order_list, algorithm_similar_name = similar_order_algorithm.SingleImgSimilar_Order()
 
     # ---生成结果目录图集，生成矩阵连线图-------------------------------------------------------------------
 
