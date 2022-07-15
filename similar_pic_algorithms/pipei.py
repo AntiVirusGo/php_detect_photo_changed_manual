@@ -9,7 +9,6 @@ from loguru_log import log_data, log_debug
 
 from matrix_gui.matrix_gui import DiGraph
 from algorithm import SimilarOrderAlgorithm
-from utils.order_pic_list_generate_output import  order_pic_list_generate_output
 
 if __name__ == "__main__":
 
@@ -37,10 +36,7 @@ if __name__ == "__main__":
 
     # ---生成结果目录图集，生成矩阵连线图-------------------------------------------------------------------
 
-    # 根据排序生成结果目录
-    order_pic_list_generate_output(order_list=res_order_list, img_dir=img_dir, img_list=img_list)
-
     # 生成矩阵单向连线图，绘制为GUI
-    DiGraph(res_order_list, algorithm_similar_name)
+    DiGraph(res_order_list, algorithm_similar_name, img_dir)
 
 

@@ -4,12 +4,15 @@ import re
 import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx
+
 from loguru_log import log_data, log_debug
+from .order_pic_list_generate_output import  order_pic_list_generate_output
 
 # order_list = ['input_Cam000.png', 'input_Cam001.png', 'input_Cam002.png', 'input_Cam003.png', 'input_Cam004.png', 'input_Cam005.png', 'input_Cam006.png', 'input_Cam007.png', 'input_Cam008.png', 'input_Cam009.png', 'input_Cam010.png', 'input_Cam011.png']
 
 
-def DiGraph(order_list, algorithm_similar_name):
+def DiGraph(order_list, algorithm_similar_name, img_dir):
+    order_pic_list = order_list.copy()
     try:
         for order_list_index in range(len(order_list)):
             filename_num = re.search(r"input_Cam(\d{3}).png", order_list[order_list_index]).group(1)
@@ -46,6 +49,10 @@ def DiGraph(order_list, algorithm_similar_name):
         local_time_str = time.strftime("%Y-%m-%d-%H-%M-%S", time.localtime())
         plt.savefig("./out_matrix_pics/{TIMESTAMP}-{ALGORITHM_NAME}.png".format(TIMESTAMP=local_time_str, ALGORITHM_NAME=algorithm_similar_name))
         plt.show()
+
+        # 根据排序生成结果目录
+        order_pic_list_generate_output(order_list=order_pic_list, img_dir=img_dir, time_str=local_time_str, algorithm_name=algorithm_similar_name)
+
     except Exception as err:
         log_debug.error(str(err))
         return 1
