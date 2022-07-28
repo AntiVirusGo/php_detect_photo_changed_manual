@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="PCampaign|MissionObjectives">
+        <Key name="PAiur02Primary04">
+            <Value int="1"/>
+        </Key>
+        <Key name="PShakuras01Primary01">
+            <Value int="4"/>
+        </Key>
+        <Key name="PKorhal01Primary01">
+            <Value int="5"/>
+        </Key>
+        <Key name="PKorhal02Primary03">
+            <Value int="1"/>
+        </Key>
+        <Key name="PShakuras02Bonus01">
+            <Value int="1"/>
+        </Key>
+        <Key name="PAiur02Bonus01">
+            <Value int="3"/>
+        </Key>
+        <Key name="PAiur02Primary02">
+            <Value int="1"/>
+        </Key>
+        <Key name="PShakuras01Bonus01">
+            <Value int="3"/>
+        </Key>
+        <Key name="PShakuras02Primary02">
+            <Value int="1"/>
+        </Key>
+        <Key name="PShakuras02Primary01">
+            <Value int="3"/>
+        </Key>
+        <Key name="PAiur01Primary02">
+            <Value int="1"/>
+        </Key>
+        <Key name="PAiur03Bonus01">
+            <Value int="3"/>
+        </Key>
+        <Key name="PAiur01Bonus01">
+            <Value int="4"/>
+        </Key>
+        <Key name="PKorhal02Primary02">
+            <Value int="1"/>
+        </Key>
+        <Key name="PKorhal01Bonus01">
+            <Value int="3"/>
+        </Key>
+        <Key name="PKorhal02Bonus01">
+            <Value int="3"/>
+        </Key>
+        <Key name="PPurifier01Bonus01">
+            <Value int="3"/>
+        </Key>
+        <Key name="PKorhal02Primary01">
+            <Value int="1"/>
+        </Key>
+        <Key name="PShakuras02Primary04">
+            <Value int="1"/>
+        </Key>
+        <Key name="PUlnar01Bonus01">
+            <Value int="1"/>
+        </Key>
+        <Key name="PShakuras01Primary02">
+            <Value int="1"/>
+        </Key>
+        <Key name="PShakuras02Primary03">
+            <Value int="1"/>
+        </Key>
+        <Key name="PUlnar01Primary01">
+            <Value int="5"/>
+        </Key>
+        <Key name="PAiur01Primary01">
+            <Value int="3"/>
+        </Key>
+        <Key name="PAiur02Primary03">
+            <Value int="1"/>
+        </Key>
+        <Key name="PAiur03Primary01">
+            <Value int="5"/>
+        </Key>
+    </Section>
+    <Section name="PCampaign|MissionBestTime">
+        <Key name="PUlnar01-2">
+            <Value int="1562"/>
+        </Key>
+        <Key name="PAiur03-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur03-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur03-2">
+            <Value int="1226"/>
+        </Key>
+        <Key name="PKorhal01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur02-2">
+            <Value int="891"/>
+        </Key>
+        <Key name="PAiur03-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-2">
+            <Value int="444"/>
+        </Key>
+        <Key name="PKorhal01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal02-2">
+            <Value int="1475"/>
+        </Key>
+        <Key name="PKorhal02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras01-2">
+            <Value int="1191"/>
+        </Key>
+        <Key name="PUlnar01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal01-2">
+            <Value int="949"/>
+        </Key>
+        <Key name="PPurifier01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PUlnar01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PPurifier01-2">
+            <Value int="984"/>
+        </Key>
+        <Key name="PShakuras02-2">
+            <Value int="2078"/>
+        </Key>
+        <Key name="PShakuras02-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur02-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras01-4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PShakuras02-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PAiur01-1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PKorhal02-1">
+            <Value int="0"/>
+        </Key>
+    </Section>
+</Bank>

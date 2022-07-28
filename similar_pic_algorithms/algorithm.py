@@ -153,3 +153,53 @@ class SimilarOrderAlgorithm:
             target_img = os.path.join(self.img_dir, most_similar_img_filename)
         log_data.success("排序结果为："+str(similar_order))
         return similar_order, "回溯1图寻找"
+
+    def BackAllImgSimilar_Order(self):
+        """回溯全部已匹配。"""
+
+        # [!] 程序结果：相似度排序列表 similar_order
+        similar_order = []
+        similar_order.append(self.img_init)
+
+        # 下一个代码段要进行排序，使用 img_list2 来进行处理
+        # 对于文件名列表，这里需要深拷贝赋值给列表 img_list_cycle
+        img_list2 = self.img_list.copy()
+        # 因为入口img已经确认，待测试图片中可删去
+        img_list2.remove(self.img_init)
+
+        target_img = os.path.join(self.img_dir, self.img_init)
+
+        for i in self.img_list:
+            res_img_similar = []
+            # 中间变量 res_img_similar 用于临时存储本轮中 剩余图片 与 target_img 的相似比较结果
+
+            target_img_back_one = os.path.join(self.img_dir, similar_order[-1])
+
+            log_data.debug(" 正在测试： " + str(target_img) + "回溯: " + target_img_back_one )
+            for img_list_index in range(len(img_list2)):
+                # 从 img_list2 剩余图片拿出来要与 target 图片进行比较的图片 是  img_list2[img_list_index]
+
+                # 未排序剩余图片中待测试图片（for target_img in img_list2） 与 排序图片 res_img_similar 进行回溯匹配
+                # for i in range(len(res_img_similar))
+
+                # # 本节图片比较
+                # # target_img 是 要测试的图片
+                # target_compare_score = self.picSimilarCal.runAllImageSimilaryFun(target_img, os.path.join(self.img_dir, img_list2[img_list_index]))
+                # # 回溯图片比较
+                # # target_img_back_one 是 similar_order[-1]
+                #
+                # back_target_score = self.picSimilarCal.runAllImageSimilaryFun(target_img_back_one, os.path.join(self.img_dir, img_list2[img_list_index]))
+                # # 添加元组 (本节图片比较, 回溯一张图片比较) 至 res_img_similar
+
+                for single_similar_order in range(similar_order):
+                    res_img_similar.append()
+
+            most_similar_img_filename = self.get_max_from_res_img_similar_back_one(res_img_similar)
+            img_list2.remove(most_similar_img_filename)
+            similar_order.append(most_similar_img_filename)
+            print(similar_order)
+            if img_list2 == []:
+                break
+            target_img = os.path.join(self.img_dir, most_similar_img_filename)
+        log_data.success("排序结果为："+str(similar_order))
+        return similar_order, "回溯全部已匹配"

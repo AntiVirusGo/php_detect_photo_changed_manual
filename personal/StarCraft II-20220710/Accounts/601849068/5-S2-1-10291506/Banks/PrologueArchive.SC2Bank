@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="VoidPrologue01|MissionBestTime">
+        <Key name="VoidPrologue01-2">
+            <Value int="1491"/>
+        </Key>
+    </Section>
+    <Section name="VoidPrologue02|MissionBestTime">
+        <Key name="VoidPrologue02-2">
+            <Value int="1669"/>
+        </Key>
+    </Section>
+</Bank>

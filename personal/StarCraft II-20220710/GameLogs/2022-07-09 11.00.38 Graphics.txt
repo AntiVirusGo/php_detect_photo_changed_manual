@@ -1,0 +1,46 @@
+﻿GFX  11:00:38.361 ====================================================================================================
+GFX  11:00:38.361 StarCraft II (B87702)
+GFX  11:00:38.361 
+GFX  11:00:38.361 Executable              C:\Users\Administrator\Documents\StarCraft II\Versions\Base87702\SC2_x64.exe
+GFX  11:00:38.361 <Parameters>            -sso=1 -launch -uid s2
+GFX  11:00:38.361 Parent Executable       \Device\HarddiskVolume6\Users\Administrator\Documents\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  11:00:38.361 Grandparent Executable  \Device\HarddiskVolume10\SC2\20220607\Bizzard_Battle\Battle.net\Battle.net.exe
+GFX  11:00:38.361 LocalTime               2022-07-09 11:00:38.361
+GFX  11:00:38.361 <ComputerUser>          Administrator
+GFX  11:00:38.361 <ComputerName>          DESKTOP-ECDAJ18
+GFX  11:00:38.361 <Exe.Architecture>      x86_64
+GFX  11:00:38.361 <Version>               5.0.9.87702
+GFX  11:00:38.361 <DataBuild>             B87702
+GFX  11:00:38.361 <CodeBranch>            branches/SC2.5.0.a
+GFX  11:00:38.361 <CodeRevision>          635871
+GFX  11:00:38.361 <Locale.Assets>         zhCN
+GFX  11:00:38.361 <Locale.Data>           zhCN
+GFX  11:00:38.361 <Locale.Install>        zhCN
+GFX  11:00:38.361 <AccountCountry>        CHN
+GFX  11:00:38.361 <AgentVersion>          2.27.2.7893
+GFX  11:00:38.361 ====================================================================================================
+GFX  11:00:38.360 DXGI: Available
+GFX  11:00:38.952 Resource Cache Override Variable: 0MB
+GFX  11:00:38.952 Resource Cache: 2048MB Win64 (32654MB Physical, 33451MB Process Virtual)
+GFX  11:00:38.952 Resource Cache Sound:  204MB 
+GFX  11:00:38.952 Resource Cache Common: 1843MB 
+GFX  11:00:38.952 Resource Cache VRam:   0MB
+GFX  11:00:39.076 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  11:00:39.077 Adapter [0]: NVIDIA GeForce 940MX (VendorID 0x10de DeviceID 0x134d)
+GFX  11:00:39.077 Attempting CreateDevice on adapter [0] (VendorID 0x10de DeviceID 0x134d)
+GFX  11:00:39.245 CreateDevice succeeded
+GFX  11:00:39.245 Using adapter [0]
+GFX  11:00:39.246 Floating point render targets supported.
+GFX  11:00:39.250 DXGI Adapter Name: NVIDIA GeForce 940MX
+GFX  11:00:39.250 VRAM Detected: Dedicated [2010MB] Shared [16327MB] (DXGI)
+GFX  11:00:39.250 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  11:00:39.250 Initialized D3D9 GraphicsDevice: NVIDIA GeForce 940MX (Driver Version: 27.21.14.5167, VRAM: 2010MB, SVMEM: 16327MB).
+GFX  11:00:39.295 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  11:00:39.295 Hardware Depth Sampling: Available
+GFX  11:00:39.296 VRAM texture space: 1507MB
+GFX  11:00:41.415 PerfNotifiers initialized
+GFX  11:00:41.694 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  11:00:41.694 Lost D3D9 device
+GFX  11:00:41.728 
+GFX  11:00:41.728 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  11:01:03.988 Lost D3D9 device

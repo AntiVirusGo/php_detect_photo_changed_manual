@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Win">
+        <Key name="Win">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Lose">
+        <Key name="Lose">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Score">
+        <Key name="Score">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="ESC">
+        <Key name="ESC">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="1D6ACB1F6FD1F917C7C7386CF84D8D595A71852A"/>
+</Bank>

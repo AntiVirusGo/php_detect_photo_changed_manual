@@ -1,0 +1,78 @@
+﻿GFX  11:01:26.225 ====================================================================================================
+GFX  11:01:26.225 StarCraft II (B87702)
+GFX  11:01:26.225 
+GFX  11:01:26.225 Executable              C:\Users\Administrator\Documents\StarCraft II\Versions\Base87702\SC2_x64.exe
+GFX  11:01:26.225 <Parameters>            -sso=1 -launch -uid s2
+GFX  11:01:26.225 Parent Executable       \Device\HarddiskVolume6\Users\Administrator\Documents\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  11:01:26.225 Grandparent Executable  \Device\HarddiskVolume10\SC2\20220607\Bizzard_Battle\Battle.net\Battle.net.exe
+GFX  11:01:26.225 LocalTime               2022-07-09 11:01:26.225
+GFX  11:01:26.225 <ComputerUser>          Administrator
+GFX  11:01:26.225 <ComputerName>          DESKTOP-ECDAJ18
+GFX  11:01:26.225 <Exe.Architecture>      x86_64
+GFX  11:01:26.225 <Version>               5.0.9.87702
+GFX  11:01:26.225 <DataBuild>             B87702
+GFX  11:01:26.225 <CodeBranch>            branches/SC2.5.0.a
+GFX  11:01:26.225 <CodeRevision>          635871
+GFX  11:01:26.225 <Locale.Assets>         zhCN
+GFX  11:01:26.225 <Locale.Data>           zhCN
+GFX  11:01:26.225 <Locale.Install>        zhCN
+GFX  11:01:26.225 <AccountCountry>        CHN
+GFX  11:01:26.225 <AgentVersion>          2.27.2.7893
+GFX  11:01:26.225 ====================================================================================================
+GFX  11:01:26.225 DXGI: Available
+GFX  11:01:26.813 Resource Cache Override Variable: 0MB
+GFX  11:01:26.813 Resource Cache: 2048MB Win64 (32654MB Physical, 33439MB Process Virtual)
+GFX  11:01:26.813 Resource Cache Sound:  204MB 
+GFX  11:01:26.813 Resource Cache Common: 1843MB 
+GFX  11:01:26.813 Resource Cache VRam:   0MB
+GFX  11:01:26.939 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  11:01:26.939 Adapter [0]: NVIDIA GeForce 940MX (VendorID 0x10de DeviceID 0x134d)
+GFX  11:01:26.939 Attempting CreateDevice on adapter [0] (VendorID 0x10de DeviceID 0x134d)
+GFX  11:01:27.092 CreateDevice succeeded
+GFX  11:01:27.092 Using adapter [0]
+GFX  11:01:27.092 Floating point render targets supported.
+GFX  11:01:27.096 DXGI Adapter Name: NVIDIA GeForce 940MX
+GFX  11:01:27.096 VRAM Detected: Dedicated [2010MB] Shared [16327MB] (DXGI)
+GFX  11:01:27.096 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  11:01:27.096 Initialized D3D9 GraphicsDevice: NVIDIA GeForce 940MX (Driver Version: 27.21.14.5167, VRAM: 2010MB, SVMEM: 16327MB).
+GFX  11:01:27.142 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  11:01:27.143 Hardware Depth Sampling: Available
+GFX  11:01:27.143 VRAM texture space: 1507MB
+GFX  11:01:29.361 PerfNotifiers initialized
+GFX  11:01:29.634 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  11:01:29.634 Lost D3D9 device
+GFX  11:01:29.676 
+GFX  11:01:29.676 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  11:08:52.162 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  11:08:52.162 DirectX call  failed with error code -2005530519
+GFX  11:08:52.162 Lost D3D9 device
+GFX  11:08:52.787 
+GFX  11:08:52.787 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  11:09:12.472 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  11:09:12.472 DirectX call  failed with error code -2005530519
+GFX  11:09:12.472 Lost D3D9 device
+GFX  11:09:12.850 
+GFX  11:09:12.850 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  11:10:34.481 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  11:10:34.481 DirectX call  failed with error code -2005530519
+GFX  11:10:34.481 Lost D3D9 device
+GFX  11:10:34.864 
+GFX  11:10:34.864 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  11:13:22.037 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  11:13:33.587 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  11:13:33.588 DirectX call  failed with error code -2005530519
+GFX  11:13:33.588 Lost D3D9 device
+GFX  11:13:34.684 
+GFX  11:13:34.684 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  11:13:43.494 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  11:13:47.443 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  11:13:47.444 DirectX call  failed with error code -2005530519
+GFX  11:13:47.444 Lost D3D9 device
+GFX  11:13:48.572 
+GFX  11:13:48.572 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  11:59:11.748 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  11:59:11.748 DirectX call  failed with error code -2005530519
+GFX  11:59:11.748 Lost D3D9 device
+GFX  11:59:12.737 
+GFX  11:59:12.737 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  12:35:55.977 Lost D3D9 device

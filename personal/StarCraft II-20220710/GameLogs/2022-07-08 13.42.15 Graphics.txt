@@ -1,0 +1,99 @@
+﻿GFX  13:42:15.923 ====================================================================================================
+GFX  13:42:15.923 StarCraft II (B87702)
+GFX  13:42:15.923 
+GFX  13:42:15.923 Executable              C:\Users\Administrator\Documents\StarCraft II\Versions\Base87702\SC2_x64.exe
+GFX  13:42:15.923 <Parameters>            -sso=1 -launch -uid s2
+GFX  13:42:15.923 Parent Executable       \Device\HarddiskVolume6\Users\Administrator\Documents\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  13:42:15.923 Grandparent Executable  \Device\HarddiskVolume10\SC2\20220607\Bizzard_Battle\Battle.net\Battle.net.exe
+GFX  13:42:15.923 LocalTime               2022-07-08 13:42:15.924
+GFX  13:42:15.923 <ComputerUser>          Administrator
+GFX  13:42:15.923 <ComputerName>          DESKTOP-ECDAJ18
+GFX  13:42:15.923 <Exe.Architecture>      x86_64
+GFX  13:42:15.923 <Version>               5.0.9.87702
+GFX  13:42:15.923 <DataBuild>             B87702
+GFX  13:42:15.923 <CodeBranch>            branches/SC2.5.0.a
+GFX  13:42:15.923 <CodeRevision>          635871
+GFX  13:42:15.923 <Locale.Assets>         zhCN
+GFX  13:42:15.923 <Locale.Data>           zhCN
+GFX  13:42:15.923 <Locale.Install>        zhCN
+GFX  13:42:15.923 <AccountCountry>        CHN
+GFX  13:42:15.923 <AgentVersion>          2.27.2.7893
+GFX  13:42:15.923 ====================================================================================================
+GFX  13:42:15.922 DXGI: Available
+GFX  13:42:16.592 Resource Cache Override Variable: 0MB
+GFX  13:42:16.592 Resource Cache: 2048MB Win64 (32654MB Physical, 9878MB Process Virtual)
+GFX  13:42:16.592 Resource Cache Sound:  204MB 
+GFX  13:42:16.592 Resource Cache Common: 1843MB 
+GFX  13:42:16.592 Resource Cache VRam:   0MB
+GFX  13:42:16.956 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:42:16.957 Adapter [0]: NVIDIA GeForce 940MX (VendorID 0x10de DeviceID 0x134d)
+GFX  13:42:16.957 Adapter [1]: NVIDIA GeForce 940MX (VendorID 0x10de DeviceID 0x134d)
+GFX  13:42:16.958 Attempting CreateDevice on adapter [0] (VendorID 0x10de DeviceID 0x134d)
+GFX  13:42:17.218 CreateDevice succeeded
+GFX  13:42:17.218 Using adapter [0]
+GFX  13:42:17.219 Floating point render targets supported.
+GFX  13:42:17.227 DXGI Adapter Name: NVIDIA GeForce 940MX
+GFX  13:42:17.227 VRAM Detected: Dedicated [2010MB] Shared [16327MB] (DXGI)
+GFX  13:42:17.227 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  13:42:17.227 Initialized D3D9 GraphicsDevice: NVIDIA GeForce 940MX (Driver Version: 27.21.14.5167, VRAM: 2010MB, SVMEM: 16327MB).
+GFX  13:42:17.267 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:42:17.267 Hardware Depth Sampling: Available
+GFX  13:42:17.268 VRAM texture space: 1507MB
+GFX  13:42:21.810 PerfNotifiers initialized
+GFX  13:42:22.524 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:42:22.524 DirectX call  failed with error code -2005530520
+GFX  13:42:22.986 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  13:42:22.986 DirectX call  failed with error code -2005530519
+GFX  13:42:22.986 Lost D3D9 device
+GFX  13:42:23.172 
+GFX  13:42:23.172 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  13:42:54.950 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  13:43:00.659 DirectX call  failed with error code -2005530520
+GFX  13:45:45.993 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  13:45:45.995 DirectX call  failed with error code -2005530519
+GFX  13:45:45.995 Lost D3D9 device
+GFX  13:45:47.085 
+GFX  13:45:47.085 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  13:45:54.899 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  13:52:04.659 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  13:52:04.662 DirectX call  failed with error code -2005530519
+GFX  13:52:04.662 Lost D3D9 device
+GFX  13:52:05.745 
+GFX  13:52:05.745 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  13:52:18.835 Selected display mode 1024x768x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:52:18.835 Lost D3D9 device
+GFX  13:52:19.650 
+GFX  13:52:19.650 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:52:19.754 Selected display mode 1024x768x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:52:19.754 Lost D3D9 device
+GFX  13:52:20.191 
+GFX  13:52:20.191 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:52:20.191 Lost D3D9 device
+GFX  13:52:20.503 
+GFX  13:52:20.503 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  13:52:29.527 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:52:29.527 Lost D3D9 device
+GFX  13:52:30.248 
+GFX  13:52:30.248 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:52:30.591 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:52:30.591 Lost D3D9 device
+GFX  13:52:30.921 
+GFX  13:52:30.921 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:52:30.921 Lost D3D9 device
+GFX  13:52:31.310 
+GFX  13:52:31.310 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  13:52:52.478 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:52:52.478 Lost D3D9 device
+GFX  13:52:52.668 
+GFX  13:52:52.668 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:52:52.668 Lost D3D9 device
+GFX  13:52:52.820 
+GFX  13:52:52.820 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  13:53:12.169 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  13:57:58.032 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:57:58.034 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  13:57:58.035 DirectX call  failed with error code -2005530519
+GFX  13:57:58.035 Lost D3D9 device
+GFX  13:57:58.671 
+GFX  13:57:58.671 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  13:58:02.728 Lost D3D9 device

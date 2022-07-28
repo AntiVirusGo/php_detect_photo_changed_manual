@@ -1,0 +1,120 @@
+﻿NGDP Name Resolution Failed: http://client05.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://blzddist1-a.akamaihd.net/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: http://client02-cm.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://client02-cm.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://client05.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: http://client02-cm.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: http://client05.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://blzddist1-a.akamaihd.net/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://client02-cm.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://client05.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: http://client02-cm.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: http://client05.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://blzddist1-a.akamaihd.net/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://client02-cm.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://client05.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: http://client02-cm.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: http://client05.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://blzddist1-a.akamaihd.net/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://client02-cm.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://client05.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: http://client02-cm.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: http://client05.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://blzddist1-a.akamaihd.net/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://client02-cm.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://client05.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: http://client02-cm.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: http://client05.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://blzddist1-a.akamaihd.net/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://client02-cm.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: https://client05.pdl.wow.battlenet.com.cn/
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+

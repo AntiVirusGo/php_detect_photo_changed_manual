@@ -6,10 +6,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 
 from loguru_log import log_data, log_debug
-from .order_pic_list_generate_output import  order_pic_list_generate_output
-
-# order_list = ['input_Cam000.png', 'input_Cam001.png', 'input_Cam002.png', 'input_Cam003.png', 'input_Cam004.png', 'input_Cam005.png', 'input_Cam006.png', 'input_Cam007.png', 'input_Cam008.png', 'input_Cam009.png', 'input_Cam010.png', 'input_Cam011.png']
-
+# from .order_pic_list_generate_output import  order_pic_list_generate_output
 
 def DiGraph(order_list, algorithm_similar_name, img_dir):
     order_pic_list = order_list.copy()
@@ -59,3 +56,17 @@ def DiGraph(order_list, algorithm_similar_name, img_dir):
 
     return 0
 
+if __name__ == '__main__':
+    # order_list = ['input_Cam000.png', 'input_Cam001.png', 'input_Cam002.png', 'input_Cam003.png', 'input_Cam004.png', 'input_Cam005.png', 'input_Cam006.png', 'input_Cam007.png', 'input_Cam008.png', 'input_Cam009.png', 'input_Cam010.png', 'input_Cam011.png']
+    pos = dict()
+    FG = nx.Graph()
+    arrow_edges = []
+    for row in range(81):
+        for col in range(81):
+            Node_name = "%d" % (81*row+col)
+            pos[Node_name] = (col, -row)
+            arrow_edges.append((Node_name, Node_name))
+
+    FG.add_edges_from(arrow_edges)
+    nx.draw(FG, with_labels=True, pos=pos, arrows=True, connectionstyle="arc3,rad=0.3", )
+    plt.show()
